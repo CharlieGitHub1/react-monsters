@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactMonster/static/css/main.f1b2f3b0.css",
+    "main.js": "/ReactMonster/static/js/main.db0cdfa1.js",
+    "static/js/787.1d55b696.chunk.js": "/ReactMonster/static/js/787.1d55b696.chunk.js",
+    "index.html": "/ReactMonster/index.html",
+    "main.f1b2f3b0.css.map": "/ReactMonster/static/css/main.f1b2f3b0.css.map",
+    "main.db0cdfa1.js.map": "/ReactMonster/static/js/main.db0cdfa1.js.map",
+    "787.1d55b696.chunk.js.map": "/ReactMonster/static/js/787.1d55b696.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1b2f3b0.css",
+    "static/js/main.db0cdfa1.js"
+  ]
+}
