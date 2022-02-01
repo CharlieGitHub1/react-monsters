@@ -1,12 +1,12 @@
 .search {
     -webkit-appearance: none;
-    width: 150px;
+    text-align: center;
+    width: 500px;
     height: 64px;
     padding: 5px;
     line-height: 30px;
     margin-bottom: 30px;
-    background: #ffffff65;
-    box-shadow: inset -2px -2px 4px rgba(211, 211, 211, 0.07), inset 2px 2px 4px rgba(0, 0, 0, 0.83), inset 5px 5px 10px rgba(158, 158, 158, 0.5), inset -5px -5px 10px #a0a0a0;
-    border: solid rgba(255, 255, 255, 0.172) .5px ;
+    background: #ffffff;
+    box-shadow: inset 2px 2px 12px rgba(229, 67, 244, 0.318), inset 4px 0px 7px rgba(63, 62, 62, 0.777), inset -5px -5px 10px #ffffff;
     border-radius: 0.5em;
 }
